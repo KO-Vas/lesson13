@@ -1,0 +1,43 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+<<<<<<< HEAD
+### Java ###
+*.class
+*.jar
+
+=======
+>>>>>>> f5fcd6ad649f4fdf7db2b06a29cf589d4a810f53
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+<<<<<<< HEAD
+.DS_Store
+
+=======
+.DS_Store
+>>>>>>> f5fcd6ad649f4fdf7db2b06a29cf589d4a810f53
